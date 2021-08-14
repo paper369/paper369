@@ -1,0 +1,15 @@
+h1 { color: #0000ff }
+
+#program li {  
+              float: left;
+            width : 150px;
+}
+h2 {text-align: left;
+    width : 200px;
+    margin: 5em 0;
+    }
+#game li {  
+           float: left;
+           margin: 10% 0;
+           width : 200px;
+}
